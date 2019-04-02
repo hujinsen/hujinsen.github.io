@@ -12,9 +12,21 @@ This is the demo webpage for the expiriments in the paper:xxxx
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-0lax">a</th>
-    <th class="tg-0lax">b</th>
-    <th class="tg-0lax">c</th>
+    <th class="tg-0lax">
+    <audio controls="controls">
+<source type="audio/wav" src="assets/225_331.wav"></source>
+</audio>
+    </th>
+    <th class="tg-0lax">
+    <audio controls="controls">
+<source type="audio/wav" src="assets/225_331.wav"></source>
+</audio>
+    </th>
+    <th class="tg-0lax">
+    <audio controls="controls">
+<source type="audio/wav" src="assets/228_243_367.wav"></source>
+</audio>
+    </th>
   </tr>
   <tr>
     <td class="tg-0lax">d</td>
@@ -23,13 +35,9 @@ This is the demo webpage for the expiriments in the paper:xxxx
   </tr>
 </table>
 
-<audio controls="controls">
-<source type="audio/wav" src="assets/225_331.wav"></source>
-</audio>
 
-<audio controls="controls">
-<source type="audio/wav" src="assets/228_243_367.wav"></source>
-</audio>
+
+
 
 <audio controls="controls">
 <source type="audio/wav" src="assets/228_243_367.wav"></source>
