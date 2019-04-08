@@ -1,10 +1,11 @@
 
-<html>
 
-   
 
-<body>
+
+
+
     <h1 class="common">Non-parallel Many-to-many Singing Voice Conversion by Adversarial Learning</h1>
+
 <div>
 <style type="text/css">
 .common {text-align: center;font-family:Arial, sans-serif;font-size:24px;}
@@ -204,5 +205,3 @@
 
 
 
-</body>
-</html>
