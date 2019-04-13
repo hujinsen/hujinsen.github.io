@@ -38,79 +38,79 @@ This is the [Source code](https://github.com/hujinsen/MSVC-GAN) of the paper: No
 
 
 <tr>
-    <th class="tg-s6z2" colspan="3">F2-F1</th>
+​    <th class="tg-s6z2" colspan="3">F2-F1</th>
   </tr>
   <tr>
-    <td class="tg-s6z2">source(F2)</td>
-    <td class="tg-s6z2">target(F1)</td>
-    <td class="tg-s6z2">converted</td>
+​    <td class="tg-s6z2">source(F2)</td>
+​    <td class="tg-s6z2">target(F1)</td>
+​    <td class="tg-s6z2">converted</td>
   </tr>
   <tr>
-    <td class="tg-s6z2">
-    <audio controls="controls">
+​    <td class="tg-s6z2">
+​    <audio controls="controls">
 <source type="audio/wav" src="assets/f2-f1/昨夜星辰f2.wav"></source>
-    </td>
-    <td class="tg-s6z2">
-    <audio controls="controls">
+​    </td>
+​    <td class="tg-s6z2">
+​    <audio controls="controls">
 <source type="audio/wav" src="assets/f2-f1/给电影人的情书.wav"></source>
-    </td>
-    <td class="tg-s6z2">
-    <audio controls="controls">
+​    </td>
+​    <td class="tg-s6z2">
+​    <audio controls="controls">
 <source type="audio/wav" src="assets/f2-f1/昨夜星辰f2-f1.wav"></source>
-    </td>
+​    </td>
   </tr>
 
 
 
  <tr>
-    <th class="tg-s6z2" colspan="3">M1-F1</th>
+​    <th class="tg-s6z2" colspan="3">M1-F1</th>
   </tr>
   <tr>
-    <td class="tg-s6z2">source(M1)</td>
-    <td class="tg-s6z2">target(F1)</td>
-    <td class="tg-s6z2">converted</td>
+​    <td class="tg-s6z2">source(M1)</td>
+​    <td class="tg-s6z2">target(F1)</td>
+​    <td class="tg-s6z2">converted</td>
   </tr>
   <tr>
-    <td class="tg-s6z2">
-    <audio controls="controls">
+​    <td class="tg-s6z2">
+​    <audio controls="controls">
 <source type="audio/wav" src="assets/m1-f1/敖包相会-m1.wav"></source>
-    </td>
-    <td class="tg-s6z2">
-    <audio controls="controls">
+​    </td>
+​    <td class="tg-s6z2">
+​    <audio controls="controls">
 <source type="audio/wav" src="assets/m1-f1/春风吻上我的脸-f1.wav"></source>
-    </td>
-    <td class="tg-s6z2">
-    <audio controls="controls">
+​    </td>
+​    <td class="tg-s6z2">
+​    <audio controls="controls">
 <source type="audio/wav" src="assets/m1-f1/敖包相会-m1-f1.wav"></source>
-    </td>
+​    </td>
   </tr>
 
 
 
 
 <tr>
-    <th class="tg-s6z2" colspan="3">M2-M1</th>
+​    <th class="tg-s6z2" colspan="3">M2-M1</th>
   </tr>
   <tr>
-    <td class="tg-s6z2">source(M2)</td>
-    <td class="tg-s6z2">target(M1)</td>
-    <td class="tg-s6z2">converted</td>
+​    <td class="tg-s6z2">source(M2)</td>
+​    <td class="tg-s6z2">target(M1)</td>
+​    <td class="tg-s6z2">converted</td>
   </tr>
   <tr>
-    <td class="tg-s6z2">
-    <audio controls="controls">
+​    <td class="tg-s6z2">
+​    <audio controls="controls">
 <source type="audio/wav" src="assets/m2-m1/今天-m2.wav"></source>
-    </td>
-    <td class="tg-s6z2">
-    <audio controls="controls">
+​    </td>
+​    <td class="tg-s6z2">
+​    <audio controls="controls">
 <source type="audio/wav" src="assets/m2-m1/2002年的第一场雪-m1.wav"></source>
-    </td>
-    <td class="tg-s6z2">
-    <audio controls="controls">
+​    </td>
+​    <td class="tg-s6z2">
+​    <audio controls="controls">
 <source type="audio/wav" src="assets/m2-m1/今天-m2-m1.wav"></source>
-    </td>
+​    </td>
   </tr>
- 
+
 
 
 <!-- </table> -->
@@ -122,6 +122,10 @@ This is the [Source code](https://github.com/hujinsen/MSVC-GAN) of the paper: No
 
 ## Spectrogram Comparison
 The generator of MSVC-GAN model extracts and reconstructs spectral features.The following figure illustrates the spectrogram of converted singing voice for GAN,CycleGAN-VC and MSVC-GAN.
+
+![](assets/F蔡琴-M刀郎+大约在冬季_29.svg)
+
+
 
 <img src="assets/F蔡琴-M刀郎+大约在冬季_29.svg"  height="60" width="200">
 <img src="assets/M刀郎-F蔡琴+2002年的第一场雪_1.svg"  height="60" width="200">
