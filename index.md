@@ -113,12 +113,12 @@ This is the [Source code](https://github.com/hujinsen/MSVC-GAN) of the paper: No
  
 
 
-</table>
+<!-- </table> -->
 
 
 
 
-
+<!-- </div> -->
 
 ## Spectrogram Comparison
 The generator of MSVC-GAN model extracts and reconstructs spectral features.The following figure illustrates the spectrogram of converted singing voice for GAN,CycleGAN-VC and MSVC-GAN.
