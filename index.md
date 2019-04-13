@@ -113,7 +113,7 @@
 
 </table>
 
-<h3>This is the [code](https://github.com/hujinsen/MSVC-GAN) for this paper.</h3>
+<p><h3>This is the [code](https://github.com/hujinsen/MSVC-GAN) for this paper.</h3></p>
 </div>
 
 
