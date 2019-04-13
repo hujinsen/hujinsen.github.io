@@ -32,6 +32,29 @@
     </td>
   </tr>
  
+
+ <tr>
+    <th class="tg-s6z2" colspan="3">M1-F1</th>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">source</td>
+    <td class="tg-s6z2">target</td>
+    <td class="tg-s6z2">converted</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2">
+    <audio controls="controls">
+<source type="audio/wav" src="assets/m1-f1/敖包相会-m1.wav"></source>
+    </td>
+    <td class="tg-s6z2">
+    <audio controls="controls">
+<source type="audio/wav" src="assets/m1-f1/春风吻上我的脸-f1.wav"></source>
+    </td>
+    <td class="tg-s6z2">
+    <audio controls="controls">
+<source type="audio/wav" src="assets/m1-f1/敖包相会-m1-f1.wav"></source>
+    </td>
+  </tr>
 </table>
 
 
