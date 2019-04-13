@@ -16,8 +16,8 @@ This is the [Source code](https://github.com/hujinsen/MSVC-GAN) of the paper: No
     <th class="tg-s6z2" colspan="3">F1-M1</th>
   </tr>
   <tr>
-    <td class="tg-s6z2">source</td>
-    <td class="tg-s6z2">target</td>
+    <td class="tg-s6z2">source(F1)</td>
+    <td class="tg-s6z2">target(M1)</td>
     <td class="tg-s6z2">converted</td>
   </tr>
   <tr>
@@ -41,8 +41,8 @@ This is the [Source code](https://github.com/hujinsen/MSVC-GAN) of the paper: No
     <th class="tg-s6z2" colspan="3">F2-F1</th>
   </tr>
   <tr>
-    <td class="tg-s6z2">source</td>
-    <td class="tg-s6z2">target</td>
+    <td class="tg-s6z2">source(F2)</td>
+    <td class="tg-s6z2">target(F1)</td>
     <td class="tg-s6z2">converted</td>
   </tr>
   <tr>
@@ -66,8 +66,8 @@ This is the [Source code](https://github.com/hujinsen/MSVC-GAN) of the paper: No
     <th class="tg-s6z2" colspan="3">M1-F1</th>
   </tr>
   <tr>
-    <td class="tg-s6z2">source</td>
-    <td class="tg-s6z2">target</td>
+    <td class="tg-s6z2">source(M1)</td>
+    <td class="tg-s6z2">target(F1)</td>
     <td class="tg-s6z2">converted</td>
   </tr>
   <tr>
@@ -92,8 +92,8 @@ This is the [Source code](https://github.com/hujinsen/MSVC-GAN) of the paper: No
     <th class="tg-s6z2" colspan="3">M2-M1</th>
   </tr>
   <tr>
-    <td class="tg-s6z2">source</td>
-    <td class="tg-s6z2">target</td>
+    <td class="tg-s6z2">source(M2)</td>
+    <td class="tg-s6z2">target(M1)</td>
     <td class="tg-s6z2">converted</td>
   </tr>
   <tr>
