@@ -6,8 +6,8 @@ This is the [Source code](https://github.com/hujinsen/MSVC-GAN) of the paper: No
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;width: auto}
-.tg td{font-family:Arial, sans-serif;font-size:15px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
-.tg th{font-family:Arial, sans-serif;font-size:17px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aaa;color:#fff;background-color:#f38630;}
+.tg td{font-family:Arial, sans-serif;font-size:16px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:19px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aaa;color:#fff;background-color:#f38630;}
 .tg .tg-s6z2{text-align:center}
 </style>
 
