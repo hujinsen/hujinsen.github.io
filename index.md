@@ -1,4 +1,4 @@
-
+This is the [source code](https://github.com/hujinsen/MSVC-GAN) for the paper: Non-parallel Many-to-many Singing Voice Conversion by Adversarial Learning.
 
 <div>
 
@@ -116,5 +116,5 @@
 
 </div>
 
-This is the [source code](https://github.com/hujinsen/MSVC-GAN) for the paper: Non-parallel Many-to-many Singing Voice Conversion by Adversarial Learning.
+
 
