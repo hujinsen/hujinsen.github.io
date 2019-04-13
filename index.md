@@ -2,6 +2,13 @@
 
 <div>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;width: auto}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aaa;color:#fff;background-color:#f38630;}
+.tg .tg-s6z2{text-align:center}
+</style>
+
 <table class="tg">
   <tr>
     <th class="tg-s6z2" colspan="3">F1-M1</th>
